@@ -31,7 +31,7 @@ List of scientific articles and its sources:
 
 List of reseach institutes and universities:
 
-1. [Imperial College London - COVID-19] (https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/)
+1. [Imperial College London - COVID-19](https://www.imperial.ac.uk/mrc-global-infectious-disease-analysis/covid-19/)
 
 ---
 <a name="footnote1">1</a>: Article not available for download, but accessible to read online.
