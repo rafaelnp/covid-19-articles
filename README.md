@@ -23,8 +23,15 @@ List of scientific articles and its sources:
 
 6. [Risk Factors Associated With Acute Respiratory Distress Syndrome and Death in Patients With Coronavirus Disease 2019 Pneumonia in Wuhan, China](https://jamanetwork.com/journals/jamainternalmedicine/fullarticle/2763184)<sup>[1](#footnote1)</sup>
 
-
 7. [Severe Acute Respiratory Syndrome Coronavirus as an Agent of Emerging and Reemerging Infection](https://cmr.asm.org/content/20/4/660)
+
+8. [Prevalence and impact of cardiovascular metabolic diseases on COVID-19 in China](https://link.springer.com/article/10.1007/s00392-020-01626-9)
+
+9. [Prevalence of comorbidities and its effects in patients infected with SARS-CoV-2: a systematic review and meta-analysis](https://www.sciencedirect.com/science/article/pii/S1201971220301363)
+
+10. [Diabetes is a risk factor for the progression and prognosis of COVID‐19](https://onlinelibrary.wiley.com/doi/full/10.1002/dmrr.3319)
+
+11. [Transmission of 2019-nCoV Infection from an Asymptomatic Contact in Germany](https://www.nejm.org/doi/full/10.1056/NEJMc2001468)
 
 
 ## Aditional references
