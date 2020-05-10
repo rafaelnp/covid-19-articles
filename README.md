@@ -15,6 +15,12 @@ Scientific articles related to previous viruses from coronavirus group
 
 1. [Severe Acute Respiratory Syndrome Coronavirus as an Agent of Emerging and Reemerging Infection](https://cmr.asm.org/content/20/4/660)
 
+
+### 2019 November
+
+[Emergence of a novel coronavirus causing respiratory illness from Wuhan, China](https://www.sciencedirect.com/science/article/pii/S0163445320300384)
+
+
 ### 2020 January
 
 1. [A familial cluster of pneumonia associated with the 2019 novel coronavirus indicating person-to-person transmission: a study of a family cluster](https://www.sciencedirect.com/science/article/pii/S0140673620301549)
@@ -28,6 +34,12 @@ Scientific articles related to previous viruses from coronavirus group
 2. [Prevalence and impact of cardiovascular metabolic diseases on COVID-19 in China](https://link.springer.com/article/10.1007/s00392-020-01626-9)
 
 3. [Prefusion 2019-nCoV spike glycoprotein with a single receptor-binding domain up](https://www.ncbi.nlm.nih.gov/Structure/pdb/6VSB)
+
+4. [Baricitinib as potential treatment for 2019-nCoV acute respiratory disease](https://www.sciencedirect.com/science/article/pii/S0140673620303044)
+
+5. [Early lessons from the frontline of the 2019-nCoV outbreak](https://www.sciencedirect.com/science/article/pii/S0140673620303561)
+
+6. [2019-nCoV transmission through the ocular surface must not be ignored](https://www.sciencedirect.com/science/article/pii/S0140673620303135)
 
 
 
