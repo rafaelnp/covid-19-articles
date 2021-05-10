@@ -71,6 +71,13 @@ Scientific articles related to previous viruses from coronavirus group
 1. [SARS-CoV-2 antibody prevalence in Brazil: results from two successive nationwide serological household surveys](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30387-9/fulltext)
 2. [COVID-19 herd immunity in the Brazilian Amazon](https://www.medrxiv.org/content/10.1101/2020.09.16.20194787v1.full.pdf)
 
+
+### 2020 December
+
+1. [Male sex identified by global COVID-19 meta-analysis as a risk factor for death and ITU admission](https://www.nature.com/articles/s41467-020-19741-6)
+
+
+
 ## Aditional references
 
 List of reseach institutes and universities:
